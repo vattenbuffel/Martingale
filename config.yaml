@@ -1,0 +1,7 @@
+win_chance: 50 #47.368421052 # 47.3... is the chance of winning when betting black/red on american roulette table, 18/38
+start_money: 100
+goal_increase_factor: [2, 5]
+goal_increase_money: [1]
+start_bet: 1
+
+n_sim: 10000
